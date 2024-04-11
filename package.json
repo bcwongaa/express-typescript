@@ -1,8 +1,8 @@
 {
     "name": "express-typescript",
-    "module": "server.ts",
+    "module": "main.ts",
     "scripts": {
-        "start": "nodemon --exec \"bun run src/server.ts\""
+        "start": "nodemon --exec \"bun run src/main.ts\""
     },
     "devDependencies": {
         "@types/bun": "latest"
